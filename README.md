@@ -21,3 +21,5 @@ The Superstore Dashboard, built using Power BI, provides key insights into sales
 - Show the Profit & Sales by State
 - Add a slicer by Region
 
+## Dashboard Interaction
+
