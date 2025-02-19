@@ -22,4 +22,5 @@ The Superstore Dashboard, built using Power BI, provides key insights into sales
 - Add a slicer by Region
 
 ## Dashboard Interaction
+- <a href="https://github.com/nehaS785/SuperStore_Dashboard_PowerBI/blob/main/SuperStore%20Project.pbix">View Dashboard/a>
 
