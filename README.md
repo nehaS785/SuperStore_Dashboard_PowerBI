@@ -2,8 +2,10 @@
 ## Project Objective -
 The Superstore Dashboard, built using Power BI, provides key insights into sales performance, profitability, and customer trends across different regions and product categories. It enables data-driven decision-making by visualizing sales metrics, identifying top-selling products, and analyzing profit margins. The dashboard helps businesses optimize strategies by uncovering patterns in sales, discounts, and customer segments.
 
+
 # Dataset Used -
 - <a href="https://github.com/nehaS785/SuperStore_Dashboard_PowerBI/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset<a>
+
 
 ## Questions  (KPIs) -
 - Show the sales by Payment mode
@@ -21,18 +23,22 @@ The Superstore Dashboard, built using Power BI, provides key insights into sales
 - Show the Profit & Sales by State
 - Add a slicer by Region
 
+
 ## Dashboard Interaction
 - <a href="https://github.com/nehaS785/SuperStore_Dashboard_PowerBI/blob/main/SuperStore%20Project.pbix">View Dashboard/a>
+
 
 ## Process -
 Extracted and loaded Superstore sales data into Power BI. Performed data cleaning using Power Query, handling missing values and formatting data. Established relationships between tables and created calculated columns & measures using DAX. Designed an interactive dashboard with KPIs, charts, and filters to provide key business insights. Identified top-performing products, sales trends, and profitability across regions.
 
+
 # Dashboard Image
 - <a href="https://github.com/nehaS785/SuperStore_Dashboard_PowerBI/blob/main/Screenshot.png">View Dashboard/a>
 
-Project Insights -
-Sales & Profit Trends: Identifies the most and least profitable products and categories.
-Regional Performance: Highlights top-performing regions and areas needing improvement.
-Customer Segmentation: Analyzes customer demographics and buying patterns.
-Order & Shipping Analysis: Evaluates shipping modes and their impact on customer
+
+# Project Insights -
+Identifies the most and least profitable products and categories.
+Highlights top-performing regions and areas needing improvement.
+Analyzes customer demographics and buying patterns.
+Evaluates shipping modes and their impact on customer
 
