@@ -30,4 +30,9 @@ Extracted and loaded Superstore sales data into Power BI. Performed data cleanin
 # Dashboard Image
 - <a href="https://github.com/nehaS785/SuperStore_Dashboard_PowerBI/blob/main/Screenshot.png">View Dashboard/a>
 
+Project Insights -
+Sales & Profit Trends: Identifies the most and least profitable products and categories.
+Regional Performance: Highlights top-performing regions and areas needing improvement.
+Customer Segmentation: Analyzes customer demographics and buying patterns.
+Order & Shipping Analysis: Evaluates shipping modes and their impact on customer
 
